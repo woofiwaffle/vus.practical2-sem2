@@ -7,9 +7,9 @@ The required implementation of the program that implements the action.
 
 1. Formation of a doubly linked list of dimension N, where:
 
-a) the user enters the number of elements in the list, which will automatically include random numbers (from 0 to 99);
+   a) the user enters the number of elements in the list, which will automatically include random numbers (from 0 to 99);
 
-b) the user enters a list of elements into the console, N automatically determines the number of entered elements;
+   b) the user enters a list of elements into the console, N automatically determines the number of entered elements;
 
 2. Registering the speed of creating a doubly linked list.
 
